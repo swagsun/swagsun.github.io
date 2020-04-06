@@ -10,6 +10,12 @@ tags: friends
 > Transform your plain text into static websites and blogs.
 
 ### Welcome
+## 生活真的是一团麻 
+
+1今天我二爷爷家房子封顶了
+2我还没有找到工作
+3室友家有点让人担心希望他能尽快好起来 不让她们家人担心焦虑
+4谁不说生活总是充满意外呢 那也要坚强生活不是 唉 乐观起来
 
 This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.
 
