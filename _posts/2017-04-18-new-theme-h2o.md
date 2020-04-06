@@ -2,7 +2,7 @@
 layout: post
 title: '孙微微的个人主页'
 subtitle: 'Thanks for your coming!'
-date: 2017-04-186
+date: 2017-04-18
 categories: 生活
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
 tags: 孙微微个人博客
