@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'swagsun的个人主页'
 description: 'Iam swagsun,很高兴能在这里与你分享我的日常。'
-keyword: 'swagsun, swagsun的个人主页, 管理学,数据分析, javascript, python'
+keyword: 'swagsun, swagsun的个人主页, java,redis,mysql,mongodb,SSM'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -26,7 +26,7 @@ footer:
 # Author 配置博主信息
 author: 'swagsun'
 nickname: 'swagsun'
-bio: '追剧达人，善于分享和收集乐趣，简单乐观爱创造'
+bio: '爪哇打工人！努力学习，keep moving,keep hungry！'
 avatar: '/assets/img/profile.png'
 
 # Search
