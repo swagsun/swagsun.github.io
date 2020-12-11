@@ -10,9 +10,5 @@ cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: pic
 ---
 
-
-
-
-
-
-![Image text]
+一下是图片
+![Image text](https://github.com/swagsun/swagsun.github.io/blob/master/assets/img/banner.jpg)
